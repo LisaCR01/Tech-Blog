@@ -1,0 +1,26 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LisaCR01/Tech-Blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LisaCR01/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/LisaCR01/Tech-Blog#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "expressa": "^1.2.5",
+    "nodemon": "^2.0.15"
+  }
+}
