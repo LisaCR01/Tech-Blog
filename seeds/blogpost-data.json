@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Javascript Fundamentals the basics",
+      "description": "JavaScript is a programming language that allows you to implement complex features on a website, such as dynamic elements or interactivity. JavaScript is executed once the information from the HTML and CSS in the source code has been parsed and constructed."
+    },
+    {
+      "name": "Why e-commerce sites are important",
+      "description": "e-commerce sites such as Shopify are prevalent because of the amount of money made in the industry. The prevalence of these sites means that understanding the fundamental architecture of these platforms benefits full-stack web developers."
+     
+    },
+    {
+      "name": "The necessity of node",
+      "description": "Node. js is easily employed as a server-side proxy where it can handle a large amount of simultaneous connections in a non-blocking manner. It's especially useful for proxying different services with different response times, or collecting data from multiple source points.."
+    }
+  ]
