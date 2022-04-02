@@ -1,0 +1,8 @@
+[
+    {
+        "user_id": 1,
+        "blogpost_id": 2,
+        "comment_text": "Is this working.. ",
+        "date_created":"05/03/2022"
+    }
+]
